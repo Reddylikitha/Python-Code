@@ -23,14 +23,27 @@ print(type(a))
 print(a) 
 
 print("likitha" ,"Sai" ,7,3,sep="--",end=":")
-print("Love" , "date" ,sep=" ")
+print("Love" , "date" ,sep=" ")'''
 
-a=5
-a/=3
-print(a)'''
+#a=5
+#a/=3
+#print(a)
 
-age = 18
-if age>18:
- print("can vote")
-else:
- print("Cannot vote")
+# age = 18
+# if age>18:
+#  print("can vote")
+# else:
+#  print("Cannot vote")
+
+# b = 13.6768
+# c = 8.654
+# d = b*c
+# print(f"{d:.9f}")
+
+'''A = input()
+B = A.split()
+print(B)'''
+
+# a = 345
+# a =  a//4
+# print(a)
