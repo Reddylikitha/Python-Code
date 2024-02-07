@@ -47,3 +47,11 @@ print(B)'''
 # a = 345
 # a =  a//4
 # print(a)
+
+t = int(input())
+for i in range(1,t+1):
+	a = input()
+	b=''
+	for j in range(len(a)-1,-1,-1):
+		b = a[j]
+	print(b)
